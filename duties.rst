@@ -65,19 +65,3 @@ If you're comfortable with having your duty packages update automatically (eithe
 because you're using a secure duty package source or are running scenarios
 that are OK with automatic public updates), you can use the jodot-update to
 check and update your duties periodically.
-
-In any case, if you have a need for enhanced assurance with your duty packages,
-Jodot does support this technically via duty sources (see
-:ref:`sources_of_duties`)
-
-.. _sources_of_duties:
-
-Sources of duties
------------------
-
-Writing your own duties
------------------------
-
-2. npm init
-
-MUST have package.json
