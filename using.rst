@@ -4,7 +4,7 @@ Using Jodot
 Use a process control system
 -----------------------------
 
-Use a process control system like [Supervisor] to manage the livelihood of the
+Use a process control system like Supervisor to manage the livelihood of the
 Jodot process. The Jodot process should be running at all times.
 
 Jodot logs failing duties (crashed, exited or somehow failed to execute) to
